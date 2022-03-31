@@ -7,3 +7,8 @@ A dark Vim/Neovim color scheme.
 ## Installation
 
 Install using your Vim plug-in manager of choice, or copy the contents of `colors` into `~/.vim` directory.
+
+## Supported Plugins
+
+- [airblade/vim-gitgutter](https://github.com/airblade/vim-gitgutter)
+- [tpope/vim-fugitive](https://github.com/tpope/vim-fugitive)
