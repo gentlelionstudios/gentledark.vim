@@ -1,21 +1,21 @@
 " Name:       gentledark.vim
 " Maintainer: https://github.com/gentlelionstudios/gentledark.vim
 " License:    The MIT License (MIT)
-
+  
 let s:guishade0 = "#132230"
 let s:guishade1 = "#1c3649"
 let s:guishade2 = "#3e76a0"
 let s:guishade3 = "#4787b8"
-let s:guishade4 = "#c678dd"
+let s:guishade4 = "#c26fdb"
 let s:guishade5 = "#7facce"
 let s:guishade6 = "#9fa9ad"
 let s:guishade7 = "#b8b7ba"
-let s:guiaccent0 = "#a44449"
-let s:guiaccent1 = "#d59e7b"
-let s:guiaccent2 = "#9d901b"
-let s:guiaccent3 = "#489d8f"
+let s:guiaccent0 = "#bd6065"
+let s:guiaccent1 = "#d5a87b"
+let s:guiaccent2 = "#bcac20"
+let s:guiaccent3 = "#4ba495"
 let s:guiaccent4 = "#a6d0d9"
-let s:guiaccent5 = "#839095"
+let s:guiaccent5 = "#879499"
 let s:guiaccent6 = "#b95aa0"
 let s:guiaccent7 = "#6f8eb2"
 let s:ctermshade0 = 235
@@ -26,12 +26,12 @@ let s:ctermshade4 = 3
 let s:ctermshade5 = 110
 let s:ctermshade6 = 248
 let s:ctermshade7 = 250
-let s:ctermaccent0 = 131
+let s:ctermaccent0 = 174
 let s:ctermaccent1 = 7
-let s:ctermaccent2 = 143
+let s:ctermaccent2 = 179
 let s:ctermaccent3 = 73
 let s:ctermaccent4 = 152
-let s:ctermaccent5 = 245
+let s:ctermaccent5 = 246
 let s:ctermaccent6 = 175
 let s:ctermaccent7 = 109
 
