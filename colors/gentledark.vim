@@ -2,38 +2,40 @@
 " Maintainer: https://github.com/gentlelionstudios/gentledark.vim
 " License:    The MIT License (MIT)
   
-let s:guishade0 = "#132230"
-let s:guishade1 = "#1c3649"
-let s:guishade2 = "#3e76a0"
-let s:guishade3 = "#4787b8"
-let s:guishade4 = "#c26fdb"
-let s:guishade5 = "#7facce"
-let s:guishade6 = "#9fa9ad"
-let s:guishade7 = "#b8b7ba"
-let s:guiaccent0 = "#bd6065"
-let s:guiaccent1 = "#d5a87b"
-let s:guiaccent2 = "#bcac20"
-let s:guiaccent3 = "#4ba495"
-let s:guiaccent4 = "#a6d0d9"
-let s:guiaccent5 = "#879499"
-let s:guiaccent6 = "#b95aa0"
-let s:guiaccent7 = "#6f8eb2"
-let s:ctermshade0 = 235
-let s:ctermshade1 = 59
-let s:ctermshade2 = 67
-let s:ctermshade3 = 74
-let s:ctermshade4 = 3
-let s:ctermshade5 = 110
-let s:ctermshade6 = 248
-let s:ctermshade7 = 250
-let s:ctermaccent0 = 174
-let s:ctermaccent1 = 7
-let s:ctermaccent2 = 179
-let s:ctermaccent3 = 73
-let s:ctermaccent4 = 152
-let s:ctermaccent5 = 246
-let s:ctermaccent6 = 175
-let s:ctermaccent7 = 109
+let s:colors = gentledark#GetColors()
+
+let s:guishade0 = s:colors.guishade0
+let s:guishade1 = s:colors.guishade1
+let s:guishade2 = s:colors.guishade2
+let s:guishade3 = s:colors.guishade3
+let s:guishade4 = s:colors.guishade4
+let s:guishade5 = s:colors.guishade5
+let s:guishade6 = s:colors.guishade6
+let s:guishade7 = s:colors.guishade7
+let s:guiaccent0 = s:colors.guiaccent0
+let s:guiaccent1 = s:colors.guiaccent1
+let s:guiaccent2 = s:colors.guiaccent2
+let s:guiaccent3 = s:colors.guiaccent3
+let s:guiaccent4 = s:colors.guiaccent4
+let s:guiaccent5 = s:colors.guiaccent5
+let s:guiaccent6 = s:colors.guiaccent6
+let s:guiaccent7 = s:colors.guiaccent7
+let s:ctermshade0 = s:colors.ctermshade0
+let s:ctermshade1 = s:colors.ctermshade1
+let s:ctermshade2 = s:colors.ctermshade2
+let s:ctermshade3 = s:colors.ctermshade3
+let s:ctermshade4 = s:colors.ctermshade4
+let s:ctermshade5 = s:colors.ctermshade5
+let s:ctermshade6 = s:colors.ctermshade6
+let s:ctermshade7 = s:colors.ctermshade7
+let s:ctermaccent0 = s:colors.ctermaccent0
+let s:ctermaccent1 = s:colors.ctermaccent1
+let s:ctermaccent2 = s:colors.ctermaccent2
+let s:ctermaccent3 = s:colors.ctermaccent3
+let s:ctermaccent4 = s:colors.ctermaccent4
+let s:ctermaccent5 = s:colors.ctermaccent5
+let s:ctermaccent6 = s:colors.ctermaccent6
+let s:ctermaccent7 = s:colors.ctermaccent7
 
 highlight clear
 syntax reset
