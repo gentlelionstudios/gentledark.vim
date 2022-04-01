@@ -1,4 +1,5 @@
 # gentledark.vim
+<img src="https://github.com/gentlelionstudios/gentledark.vim/raw/master/images/theme-preview.png" width="874" alt="Image of the Gentle Dark Theme">
 
 A dark Vim/Neovim color scheme with colors inspired by the [gentle-dark-ui](https://github.com/gentlelionstudios/gentle-dark-ui-atom) and
 [gentle-dark-syntax](https://github.com/gentlelionstudios/gentle-dark-syntax-atom) themes for the [Atom text editor](https://atom.io/).
