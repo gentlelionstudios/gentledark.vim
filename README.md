@@ -23,11 +23,11 @@ Install using your Vim plug-in manager of choice, or manually copy `colors/gentl
 This repository also includes a [vim-airline](https://github.com/vim-airline/vim-airline) theme to pair with
 gentledark.vim.
 
-If you manually installed gentledark.vim, copy the
+If gentledark.vim was manually installed, copy the
 `autoload/airline/themes/gentledark.vim` into the
 `~/.vim/autoload/airline/themes` directory.
 
-To enable the vim-airline theme, add this line to your `~/.vimrc`:
+To enable the theme, add the following line to `~/.vimrc`:
 
 ```vim
 let g:airline_theme='gentledark'
