@@ -2,11 +2,11 @@
   <img width="425" src="https://github.com/gentlelionstudios/gentledark.vim/raw/master/images/gentledark-logo.png" alt="gentledark.vim">
 </p>
 
-A dark Vim/Neovim color scheme with colors inspired by the [gentle-dark-ui](https://github.com/gentlelionstudios/gentle-dark-ui-atom) and
+A dark color scheme for [vim](https://www.vim.org) and [neovim](https://neovim.io) with colors inspired by the [gentle-dark-ui](https://github.com/gentlelionstudios/gentle-dark-ui-atom) and
 [gentle-dark-syntax](https://github.com/gentlelionstudios/gentle-dark-syntax-atom) themes for the [Atom text editor](https://atom.io/).
 
 ![gentledark.vim](https://github.com/gentlelionstudios/gentledark.vim/raw/master/images/theme-preview.png)
-*Showing the color scheme in [neovim](https://neovim.io) with the [vim-airline](https://github.com/vim-airline/vim-airline) plugin.  The terminal is [iTerm2](https://iterm2.com) and the font is [Hack](https://sourcefoundry.org/hack/) at 15pt.*
+*Showing the color scheme in neovim with the [vim-airline](https://github.com/vim-airline/vim-airline) plugin.  The terminal is [iTerm2](https://iterm2.com) and the font is [Hack](https://sourcefoundry.org/hack/) at 15pt.*
 
 ## Installation
 
