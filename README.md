@@ -5,7 +5,7 @@ A dark Vim/Neovim color scheme with colors inspired by the [gentle-dark-ui](http
 
 <img src="https://github.com/gentlelionstudios/gentledark.vim/raw/master/images/theme-preview.png" width="874" alt="Image of the Gentle Dark Theme">
 
-*The screenshot shows the theme in [nvim](https://neovim.io) running in the [iTerm2](https://iterm2.com) terminal.  The font is [Hack](https://sourcefoundry.org/hack/) rendered at 15pt.*
+*Showing the color scheme in [neovim](https://neovim.io) with the [vim-airline](https://github.com/vim-airline/vim-airline) plugin.  The terminal is [iTerm2](https://iterm2.com) and the font is [Hack](https://sourcefoundry.org/hack/) at 15pt.*
 
 ## Installation
 
