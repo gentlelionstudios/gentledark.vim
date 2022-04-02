@@ -13,7 +13,7 @@ let s:colors = {
       \ "guiaccent1": "#d49454",
       \ "guiaccent2": "#ac9f2a",
       \ "guiaccent3": "#4ba495",
-      \ "guiaccent4": "#a6d0d9",
+      \ "guiaccent4": "#80becb",
       \ "guiaccent5": "#879499",
       \ "guiaccent6": "#b95aa0",
       \ "guiaccent7": "#6f8eb2",
