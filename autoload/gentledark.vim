@@ -1,5 +1,5 @@
 " [gentledark.vim](https://github.com/gentlelionstudios/gentledark.vim)
-
+         
 let s:colors = {
       \ "guishade0": "#132230",
       \ "guishade1": "#1c3649",
@@ -13,7 +13,7 @@ let s:colors = {
       \ "guiaccent1": "#d49454",
       \ "guiaccent2": "#ac9f2a",
       \ "guiaccent3": "#4ba495",
-      \ "guiaccent4": "#2E5E69",
+      \ "guiaccent4": "#418595",
       \ "guiaccent5": "#879499",
       \ "guiaccent6": "#b95aa0",
       \ "guiaccent7": "#6f8eb2",
@@ -29,7 +29,7 @@ let s:colors = {
       \ "ctermaccent1": 180,
       \ "ctermaccent2": 143,
       \ "ctermaccent3": 73,
-      \ "ctermaccent4": 66,
+      \ "ctermaccent4": 73,
       \ "ctermaccent5": 246,
       \ "ctermaccent6": 175,
       \ "ctermaccent7": 109,
