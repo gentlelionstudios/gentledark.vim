@@ -2,7 +2,7 @@
   <img width="425" src="https://github.com/gentlelionstudios/gentledark.vim/raw/master/images/gentledark-logo.png" alt="gentledark.vim">
 </p>
 
-A dark color scheme for [vim](https://www.vim.org) and [neovim](https://neovim.io) with colors inspired by the [gentle-dark-ui](https://github.com/gentlelionstudios/gentle-dark-ui-atom) and
+A dark color scheme for [Vim](https://www.vim.org) and [Neovim](https://neovim.io) with colors inspired by the [gentle-dark-ui](https://github.com/gentlelionstudios/gentle-dark-ui-atom) and
 [gentle-dark-syntax](https://github.com/gentlelionstudios/gentle-dark-syntax-atom) themes for the [Atom text editor](https://atom.io/).
 
 ![gentledark.vim](https://github.com/gentlelionstudios/gentledark.vim/raw/master/images/theme-preview.png)
@@ -10,7 +10,23 @@ A dark color scheme for [vim](https://www.vim.org) and [neovim](https://neovim.i
 
 ## Installation
 
-Install using your Vim plug-in manager of choice, or manually copy `colors/gentledark.vim` into the `~/.vim/colors/` directory and copy `autoload/gentledark.vim` into the `~/.vim/autoload/` directory.
+### Plugin Manager
+
+Add the following line to `~/.vimrc`:
+
+With `vim-plug`
+```vim
+Plug 'gentlelionstudios/gentledark.vim'
+```
+
+With `Vundle`
+```vim
+Plugin 'gentlelionstudios/gentledark.vim'
+```
+
+### Manual Setup
+
+Copy `colors/gentledark.vim` into the `~/.vim/colors/` directory, and copy `autoload/gentledark.vim` into the `~/.vim/autoload/` directory.
 
 ## Supported Plugins
 
